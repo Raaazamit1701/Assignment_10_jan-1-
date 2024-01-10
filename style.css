@@ -1,0 +1,117 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.header{
+    background-color:rgba(224, 105, 7, 0.5);
+    text-align: left;
+    padding-top:10px;
+    width: 100vw;
+    height: 15vh;
+    margin: 1vh;
+}
+.nav{
+    background-color: rgba(224, 105, 7, 0.5);
+    text-align: left;
+    
+    width: 100vw;
+    height: 10vh;
+    margin: 1vh;
+    display: inline-flex;
+    
+    
+}
+.container1{
+  display: inline-flex;
+  /* margin: 10px; */
+  margin: 1vh;
+}
+.article{
+   background-color: rgba(28, 190, 226, 0.5) ;
+   width: 60vw;
+   height: 60vh;
+   margin-right: 2vw;
+}
+
+.aside{
+    background-color: grey;
+    width: 37vw;
+    height: 60vh;
+}
+.footer{
+    background-color:  rgba(224, 105, 7, 0.5);
+    height: 10vh;
+    width: 100vw;
+}
+.box1{
+    background-color: white;
+    height: 5vh;
+    width: 10vw;
+    margin-left: 45vw;
+    margin-top: 2vh;
+    margin-right: 2vh;
+    
+}
+.box2{
+    background-color: white;
+    height: 5vh;
+    width: 10vw;
+    margin-top: 2vh;
+    margin-right: 2vh;
+}
+.box3{
+    background-color: white;
+    height: 5vh;
+    width: 10vw;
+    margin-top: 2vh;
+    margin-right: 2vh;
+    
+}
+.box4{
+    background-color: white;
+    height: 5vh;
+    width: 10vw;
+    margin-top: 2vh;
+    
+}
+.section1{
+    background-color: rgba(75, 185, 228, 0.761);
+    padding-top: 1vh;
+    height: 10vh;
+    width: 18em;
+    margin-left: 10vw;
+    margin-bottom: 5vh;
+}
+.section2{
+    background-color: rgba(75, 185, 228, 0.761);
+    padding-top: 1vh;
+    height: 10vh;
+    width: 18em;
+    margin-left: 10vw;
+    margin-bottom: 5vh;
+}
+.section3{
+    background-color: rgba(75, 185, 228, 0.761);
+    padding-top: 1vh;
+    height: 10vh;
+    width: 18em;
+    margin-left: 10vw;
+    margin-bottom: 5vh;
+}
+.section4{
+    background-color: rgba(191, 185, 191, 0.761);
+    padding-top: 1vh;
+    height: 10vh;
+    width: 9em;
+    margin-left: 10vw;
+    margin-bottom: 5vh;
+}
+.section5{
+    background-color: rgba(191, 185, 191, 0.761);
+    padding-top: 1vh;
+    height: 10vh;
+    width: 9em;
+    margin-left: 10vw;
+    margin-bottom: 5vh;
+}
